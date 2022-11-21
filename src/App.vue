@@ -5,7 +5,7 @@
       v-model="todoText" 
       type="text" 
       class="w-100 p-2" 
-      placeholder="Type todo"
+      placeholder="Type  :todo"
       @keyup.enter="addTodo"
       >
     <hr>
